@@ -1,5 +1,6 @@
-
+---
 🎙️ LECTURE VOICE-TO-NOTES GENERATOR
+---
 
  Demo Video: https://drive.google.com/file/d/1Kfa_vsNMVWe1G4n9XJD2FGQg7ZJWFYpQ/view?usp=sharing
 
