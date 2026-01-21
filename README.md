@@ -93,6 +93,8 @@ run - streamlit run app.py
 
 ---
 
+---
+
 ## 🎧 Audio Requirements (Important)
 
 For best transcription accuracy, ensure that the audio meets the following conditions:
