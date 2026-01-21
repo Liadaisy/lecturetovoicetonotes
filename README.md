@@ -2,6 +2,8 @@
 🎙️ LECTURE VOICE-TO-NOTES GENERATOR
 ===========================================================
 
+ Demo Video: https://drive.google.com/file/d/1Kfa_vsNMVWe1G4n9XJD2FGQg7ZJWFYpQ/view?usp=sharing
+
 Lecture Voice-to-Notes Generator is a web-based application 
 that converts lecture audio into written text using offline 
 speech-to-text technology. 
